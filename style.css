@@ -295,3 +295,11 @@ SOFTWARE. */
         mix-blend-mode: multiply;
         z-index: 2;
     }
+@media screen and (max-width:1200px){
+        .phonehaha{
+            display: flex !important;
+        }
+        .page{
+            display: none !important;
+        }
+    }
